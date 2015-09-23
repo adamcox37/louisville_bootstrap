@@ -1,1 +1,15 @@
-//my custom CSS will go here
+/* --COLORS-- */
+/*body {
+	background-color: #001a33;
+	color: #fff;
+}
+
+a, a:hover{
+	color: #fff;
+}*/
+
+/* --FIXTURES-- */
+
+body { 
+	padding-bottom: 70px; 
+}
