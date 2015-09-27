@@ -1,12 +1,12 @@
 /* --COLORS-- */
-body {
+/*body {
 	background-color: #001a33;
 	color: #fff;
 }
 
 a, a:hover{
 	color: #fff;
-}
+}*/
 
 /* --FIXTURES-- */
 
@@ -24,7 +24,7 @@ a:hover {
 
 .myText {
 	height: 0;
-	color: #001a33;
+	color: #000;
 	position: absolute;
 	opacity: 0;
 	top: 40%;
